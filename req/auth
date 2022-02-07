@@ -1,0 +1,5 @@
+GIP/1.0 AUTH
+token: [if have token if havent must be empty]
+content-length:
+
+u:<username>;p:<password>	[if have token content can be empty]
